@@ -1,0 +1,20 @@
+{
+  "name": "javascript-composable-architecture",
+  "version": "0.0.1",
+  "description": "A port of swift-composable-architecture in JavaScript.",
+  "main": "index.js",
+  "repository": "git@github.com:notcome/javascript-composable-architecture.git",
+  "author": "Liu, Minsheng <lambda@liu.ms>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/uuid": "^9.0.7",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "immer": "^10.0.3",
+    "react": "^18.2.0",
+    "uuid": "^9.0.1"
+  }
+}
